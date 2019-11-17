@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:32px;}
+	.st3{fill:#68171B;}
+	.st4{fill:#92321E;}
+	.st5{fill:#F7F5A7;}
+	.st6{fill:#EAD183;}
+	.st7{fill:#DF6A72;}
+	.st8{fill:none;}
+	.st9{fill:#AD2E41;}
+	.st10{fill:#AD2E41;stroke:#AD2E41;stroke-width:5;stroke-miterlimit:10;}
+	.st11{fill:#68171B;stroke:#68171B;stroke-width:5;stroke-miterlimit:10;}
+	.st12{fill:#92321E;stroke:#92321E;stroke-width:5;stroke-miterlimit:10;}
+	.st13{fill:#DF6A72;stroke:#DF6A72;stroke-width:5;stroke-miterlimit:10;}
+	.st14{fill:#F7F5A7;stroke:#F7F5A7;stroke-width:5;stroke-miterlimit:10;}
+	.st15{fill:#EAD183;stroke:#EAD183;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="Background_1_">
+	<rect width="1920" height="1080"/>
+	<text transform="matrix(1 0 0 1 278.4677 441.4458)" class="st0 st1 st2">Color</text>
+	<text transform="matrix(1 0 0 1 277.9722 691.9116)" class="st0 st1 st2">Sweetness</text>
+</g>
+<g id="Dots">
+	<g>
+		<circle class="st3" cx="860.5" cy="131.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st4" cx="926.6" cy="131.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st5" cx="992.6" cy="131.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st6" cx="1058.7" cy="131.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st7" cx="1124.7" cy="131.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st3" cx="720.8" cy="421.7" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st4" cx="786.9" cy="421.7" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st5" cx="1214.9" cy="421.7" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st6" cx="1281" cy="421.7" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st7" cx="1003.5" cy="421.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st3" cx="632.5" cy="711.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st4" cx="857.5" cy="717.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st5" cx="1237.5" cy="717.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st6" cx="1082.5" cy="717.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st7" cx="1353.5" cy="711.5" r="22.5"/>
+	</g>
+	<line class="st8" x1="655" y1="422" x2="794" y2="131"/>
+	<g>
+		<circle class="st9" cx="794.5" cy="131.5" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st9" cx="654.8" cy="421.7" r="22.5"/>
+	</g>
+	<g>
+		<circle class="st9" cx="712.8" cy="711.7" r="22.5"/>
+	</g>
+</g>
+<g id="Lines">
+	<line class="st10" x1="710.1" y1="711.8" x2="652.1" y2="421.8"/>
+	<line class="st10" x1="652.1" y1="421.8" x2="791.1" y2="130.8"/>
+	<line class="st11" x1="858.1" y1="131.8" x2="718.1" y2="421.8"/>
+	<line class="st11" x1="718.1" y1="421.8" x2="629.1" y2="710.8"/>
+	<line class="st12" x1="858" y1="717" x2="787" y2="422"/>
+	<line class="st12" x1="927" y1="131" x2="787" y2="422"/>
+	<line class="st13" x1="1125" y1="131" x2="1004" y2="421"/>
+	<line class="st13" x1="1359" y1="717" x2="1004" y2="421"/>
+	<line class="st14" x1="993" y1="131" x2="1215" y2="422"/>
+	<line class="st14" x1="1238" y1="717" x2="1215" y2="422"/>
+	<line class="st15" x1="1059" y1="132" x2="1281" y2="422"/>
+	<line class="st15" x1="1083" y1="718" x2="1281" y2="422"/>
+</g>
+</svg>

@@ -1,0 +1,85 @@
+<svg id="wine_colors" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="2189" viewBox="0 0 1280 2189">
+  <defs>
+    <style>
+      .wine01 { fill: #ad2e41; } <!-- pinot_noir -->
+      .wine02 { fill: #68171b; } <!-- cabernet_sauvignon -->
+      .wine03 { fill: #92321e; } <!-- merlot -->
+      .wine04 { fill: #f7f5a7; } <!-- sauvignon_blanc -->
+      .wine05 { fill: #ead183; } <!-- chardonnay -->
+      .wine06 { fill: #df6a72; } <!-- rose -->
+      .wine07 { fill: #f4fbab; } <!-- pinot_grigio -->
+      .wine08 { fill: #fae55e; } <!-- moscato -->
+      .wine09 { fill: #ffc2b2; } <!-- white_zin -->
+      .wine10 { fill: #ffc300; } <!-- riesling -->
+      .wine11 { fill: #890c1f; } <!-- malbec -->
+
+      .wine_label {
+        font-size: 20px;
+        font-family: HelveticaNeue-Medium, Helvetica Neue;
+        font-weight: 500;
+      }
+
+      .cls-18 {
+        fill: #fff;
+      }
+    </style>
+
+
+    <clipPath id="clip-Web_1280_13">
+      <rect width="1280" height="2189"/>
+    </clipPath>
+  </defs>
+  <g id="start">
+    <rect class="cls-18" width="1280" height="2189"/>
+    <!-- <circle class="wine01" cx="12" cy="12" r="12" transform="translate(631 307.5)"/> -->
+    <circle class="wine01" cx="12" cy="12" r="12" transform="translate(689 307.5)"/>
+    <circle class="wine02" cx="12" cy="12" r="12" transform="translate(751 307.5)"/>
+    <circle class="wine03" cx="12" cy="12" r="12" transform="translate(812 307.5)"/>
+    <circle class="wine04" cx="12" cy="12" r="12" transform="translate(873 307.5)"/>
+    <circle class="wine05" cx="12" cy="12" r="12" transform="translate(934 307.5)"/>
+    <circle class="wine06" cx="12" cy="12" r="12" transform="translate(996 307.5)"/>
+    <!-- <circle class="wine08" cx="12" cy="12" r="12" transform="translate(1057 307.5)"/>    -->
+
+    <!-- <circle class="cls-12" cx="12" cy="12" r="12" transform="translate(658 400.5)"/> -->
+    <circle class="wine07" cx="12" cy="12" r="12" transform="translate(719 400.5)"/>
+    <circle class="wine08" cx="12" cy="12" r="12" transform="translate(780 400.5)"/>
+    <circle class="wine09" cx="12" cy="12" r="12" transform="translate(842 400.5)"/>
+    <circle class="wine10" cx="12" cy="12" r="12" transform="translate(903 400.5)"/>
+    <circle class="wine11" cx="12" cy="12" r="12" transform="translate(965 400.5)"/>
+    <!-- <circle class="cls-9" cx="12" cy="12" r="12" transform="translate(1026 400.5)"/> -->
+
+  </g>
+
+  <g id="colors">
+    <!-- WHITE WINE -->
+    <text id="White" class="wine_label" transform="translate(653 1204.5)"><tspan x="0" y="0">White</tspan></text>
+    <circle class="wine04" cx="12" cy="12" r="12" transform="translate(629 1138.5)"/>
+    <circle class="wine05" cx="12" cy="12" r="12" transform="translate(667.5 1138.5)"/>
+    <circle class="wine07" cx="12" cy="12" r="12" transform="translate(703 1138.5)"/>
+
+    <circle class="wine08" cx="12" cy="12" r="12" transform="translate(648 1104.5)"/>
+    <circle class="wine10" cx="12" cy="12" r="12" transform="translate(687 1104.5)"/>
+    
+    
+    <!-- ROSE WINE -->
+    <text id="Rose" class="wine_label" transform="translate(855 1204.5)"><tspan x="-23.72" y="0">Rose</tspan></text>
+    <circle class="wine06" cx="12" cy="12" r="12" transform="translate(823 1138.5)"/>
+    <circle class="wine09" cx="12" cy="12" r="12" transform="translate(861 1138.5)"/>
+    <!-- <circle class="wine06" cx="12" cy="12" r="12" transform="translate(804 1138.5)"/>
+    <circle class="wine09" cx="12" cy="12" r="12" transform="translate(842 1138.5)"/>
+    <circle class="" cx="12" cy="12" r="12" transform="translate(880 1138.5)"/> -->
+
+    <!-- RED WINE -->
+    <text id="Red" class="wine_label" transform="translate(1018 1204.5)"><tspan x="0" y="0">Red</tspan></text>
+    <circle class="wine01" cx="12" cy="12" r="12" transform="translate(986 1138.5)"/>
+    <circle class="wine02" cx="12" cy="12" r="12" transform="translate(1024 1138.5)"/>
+    <circle class="wine03" cx="12" cy="12" r="12" transform="translate(1061 1139.5)"/>
+
+    <!-- <circle class="" cx="12" cy="12" r="12" transform="translate(985 1104.5)"/> -->
+    <circle class="wine11" cx="12" cy="12" r="12" transform="translate(1023 1104.5)"/>
+    <!-- <circle class="pinot_noir" cx="12" cy="12" r="12" transform="translate(1061 1104.5)"/> -->
+    <!-- <circle id="Oval_Copy_15" data-name="Oval Copy 15" class="cls-9" cx="12" cy="12" r="12" transform="translate(1023 1070.5)"/> -->
+    
+    
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+variety,hex,start_cx,start_cy,color,color_cx,color_cy
+"Pinot Noir","#ad2e41",800,100,"red",650,400
+"Cabernet Sauvignon","#68171b",860,100,"red",720,400
+"Merlot","#92321e",920,100,"red",790,400
+"Sauvignon Blanc","#f7f5a7",980,100,"white",1200,400
+"Chardonnay","#ead183",1040,100,"white",1260,400
+"Rose","#df6a72",1100,100,"pink",1000,400
